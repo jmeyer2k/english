@@ -18,7 +18,6 @@ Is *The Merchant Of Venice* semitic or anti-semitic?
 I. Since throughout the play, Shylock the Jew is portrayed as an antagonist, *The Merchant of Venice* is an anti-semitic play.
 II. Shylock plans various plots throughout the play to hinder the protagonists.
   a. Pound of flesh
-  b. 
 III. Shylock's misfortunes are celebrated by the protagonists in the play.
   a. Loss of his daughter
   b. Shylock in Court
@@ -26,7 +25,7 @@ III. Shylock's misfortunes are celebrated by the protagonists in the play.
 Who is the most sympathetic character in *The Merchant of Venice*?
 ------------------------------------------------------------------
 
-I. In the play, the most sympathetic character in the play is Portia since she believes in justice for all parties.
+I. In the play, the most sympathetic character is Portia since she believes in justice for all parties.
 II. Portia saves Antonio from Shylock's deceitful plans.
   a. Not a drop of blood
   b. Persecutes Shylock for wanting to take Antonio's life
@@ -62,6 +61,5 @@ I. *The Merchant of Venice* shows how being greedy and unmerciful is a part of a
 II. Shylock shows that he is greedy and unmerciful.
   a. Shylock cares more about the wealth that he lost than his daughter.
   b. Shylock doesn't give Antonio mercy for when Antonio owes him a pound of flesh.
-III. Portia doesn't let that part of her show through, so she is compassionate and merciful.
-  a. Portia saves Antonio from Shylock's evil.
-  b. Portia gives a speech about what true mercy is, proving that she is merciful herself.
+III. Portia shows how she is greedy when she continues Shylock's trial even after he agrees to not hurt Antonio.
+  a. Portia continues the trial after 
